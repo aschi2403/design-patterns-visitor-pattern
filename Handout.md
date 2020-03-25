@@ -36,3 +36,5 @@ Der BeanDefinitionVisitor wird verwendet, um Bean-Metadaten zu analysieren und s
 
 ## Vollständiges UML
 [Github](https://github.com/aschi2403/design-patterns-visitor-pattern)
+
+https://springframework.guru/gang-of-four-design-patterns/visitor-pattern/
